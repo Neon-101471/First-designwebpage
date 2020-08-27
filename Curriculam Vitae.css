@@ -1,0 +1,88 @@
+body 	{margin: 0px;
+		padding: 0px;
+		background-color: #18324F;
+		font-family: 'Merriweather', serif;
+		}
+		
+.container	{ max-width: 1000px;
+			  
+			  background-color: white;
+			  margin: 0 auto;
+			  padding:25px;
+			}
+.profilepicture	{height:120px;
+				 width:100px;
+				 border: 3px solid white;
+				 border-radius:40px;
+				 float:left;
+				}
+.header		{
+			float:left;
+			padding: 25px;
+	        }
+
+.contact	{float: right;
+			 padding:5px;
+			}
+.contact a {text-decoration: none;
+			color: teal;}
+.contact a b:hover
+			{text-decoration: underline;
+			 color: black;
+			}
+.clear 		{clear:both}
+
+.hr {border: 2px solid black;
+	 max-width:1100px;
+	 margin-bottom: 12px;
+    }
+   
+.commonhr  {border: 1px solid black;
+			max-width:1100px;
+			margin: 25px;
+		   }
+	
+	
+.section	{
+			}
+			
+.personalinformation	{
+						}
+						
+.left-div		{float:left;
+				 width:300px;
+				}
+				
+.right-div		{float: left;
+				 width:700px;
+				}
+				
+.eduleft {max-width: 35%;
+		  float: left;}
+		  
+.eduright {max-width: 35%;
+		   float: right;}
+		   
+.footer {background-color: #F47C3F;
+		 height: 70px;
+		 width: 970px;
+		 text-align: center;
+		 padding: 15px;
+		 }
+		 
+.footer a {margin-right: 20px;
+		   text-decoration: none;
+		  }
+		   
+.footer p {margin-top: 25px;}
+
+.langpro {float:left;
+		  width: 300px;
+		 }
+.table 		{margin-bottom: 20px;
+			 margin-top: 20px;
+			 width: 700px;
+			}
+.table-row {border: 2px;
+			border-color: blue;
+		   }
